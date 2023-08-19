@@ -1,2 +1,2 @@
 # pre-commit-test
-test
+test2
